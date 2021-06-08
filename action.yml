@@ -1,0 +1,5 @@
+name: 'Simple Javascript Action'
+description: 'Print the repository name'
+runs:
+  using: 'node15'
+  main: 'index.js'
